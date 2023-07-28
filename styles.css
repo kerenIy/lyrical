@@ -63,7 +63,7 @@ input {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding-bottom: 40px;
+  padding-bottom: 60px;
 }
 .song-img {
   width: 100px;
@@ -75,12 +75,13 @@ input {
 }
 
 .song-text p {
-  font-size: 0.7rem;
+  font-size: 0.75rem;
   color: #9575de;
 }
 
 .song-link {
   color: gray;
   text-decoration: none;
-  font-size: 0.65rem;
+  font-size: 0.7rem;
+  margin-bottom: 20px;
 }
